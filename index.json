@@ -13,18 +13,17 @@
         "extensionLib": "1.4",
         "versionCode": 3,
         "versionName": "1.4.3",
-        "contentWarning": "1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
         "resources": {
           "apkUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/apk/tachiyomi-en.goda-v1.4.3.apk",
-          "jarUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/jar/tachiyomi-en.goda-v1.4.3.jar",
           "iconUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/master/lib-multisrc/goda/res/mipmap-xxhdpi/ic_launcher.png"
         },
         "sources": [
           {
             "id": 4273874799952447500,
             "name": "Goda",
-            "lang": "en",
-            "baseUrl": "https://manhuascans.org"
+            "language": "en",
+            "homeUrl": "https://manhuascans.org"
           }
         ]
       },
@@ -34,18 +33,17 @@
         "extensionLib": "1.6",
         "versionCode": 1,
         "versionName": "1.6.1",
-        "contentWarning": "2",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "resources": {
           "apkUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/apk/tachiyomi-zh.hipmh-v1.6.1.apk",
-          "jarUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/jar/tachiyomi-zh.hipmh-v1.6.1.jar",
           "iconUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/master/src/zh/hipmh/res/mipmap-xxhdpi/ic_launcher.png"
         },
         "sources": [
           {
             "id": 7133465189093825000,
             "name": "Hipmh",
-            "lang": "zh",
-            "baseUrl": "https://m.hipmh.com"
+            "language": "zh",
+            "homeUrl": "https://m.hipmh.com"
           }
         ]
       },
@@ -55,18 +53,17 @@
         "extensionLib": "1.4",
         "versionCode": 57,
         "versionName": "1.4.57",
-        "contentWarning": "3",
+        "contentWarning": "CONTENT_WARNING_NSFW",
         "resources": {
           "apkUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/apk/tachiyomi-zh.jinmantiantang-v1.4.57.apk",
-          "jarUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/jar/tachiyomi-zh.jinmantiantang-v1.4.57.jar",
           "iconUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/master/src/zh/jinmantiantang/res/mipmap-xxhdpi/ic_launcher.png"
         },
         "sources": [
           {
             "id": 6286738698187452000,
             "name": "禁漫天堂",
-            "lang": "zh",
-            "baseUrl": "https://18comic.vip"
+            "language": "zh",
+            "homeUrl": "https://18comic.vip"
           }
         ]
       },
@@ -76,22 +73,17 @@
         "extensionLib": "1.6",
         "versionCode": 10,
         "versionName": "1.6.10",
-        "contentWarning": "2",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "resources": {
           "apkUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/apk/tachiyomi-zh.komiic-v1.6.10.apk",
-          "jarUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/jar/tachiyomi-zh.komiic-v1.6.10.jar",
           "iconUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/master/src/zh/komiic/res/mipmap-xxhdpi/ic_launcher.png"
         },
         "sources": [
           {
             "id": 792932060924485200,
             "name": "Komiic",
-            "lang": "zh",
-            "baseUrl": "https://komiic.com",
-            "mirrorUrls": [
-              "https://komiic.com",
-              "https://komiic.cc"
-            ]
+            "language": "zh",
+            "homeUrl": "https://komiic.com"
           }
         ]
       },
@@ -101,18 +93,17 @@
         "extensionLib": "1.4",
         "versionCode": 10,
         "versionName": "1.4.10",
-        "contentWarning": "2",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "resources": {
           "apkUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/apk/tachiyomi-zh.tencentcomics-v1.4.10.apk",
-          "jarUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/jar/tachiyomi-zh.tencentcomics-v1.4.10.jar",
           "iconUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/master/src/zh/tencentcomics/res/mipmap-xxhdpi/ic_launcher.png"
         },
         "sources": [
           {
             "id": 6353436350537370000,
             "name": "腾讯动漫",
-            "lang": "zh-Hans",
-            "baseUrl": "https://m.ac.qq.com"
+            "language": "zh-Hans",
+            "homeUrl": "https://m.ac.qq.com"
           }
         ]
       }
