@@ -28,26 +28,6 @@
         ]
       },
       {
-        "name": "CopyManga",
-        "packageName": "eu.kanade.tachiyomi.extension.zh.copymanga",
-        "extensionLib": "1.6",
-        "versionCode": 31,
-        "versionName": "1.6.31",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/apk/tachiyomi-zh.copymanga-v1.6.31.apk",
-          "iconUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/master/src/zh/copymanga/res/mipmap-xxhdpi/ic_launcher.png"
-        },
-        "sources": [
-          {
-            "id": 6696312508930833000,
-            "name": "拷贝漫画",
-            "language": "zh",
-            "homeUrl": "https://www.copy3000.com"
-          }
-        ]
-      },
-      {
         "name": "Hipmh",
         "packageName": "eu.kanade.tachiyomi.extension.zh.hipmh",
         "extensionLib": "1.6",
