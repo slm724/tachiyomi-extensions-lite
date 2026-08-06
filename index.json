@@ -10,17 +10,38 @@
       {
         "name": "Goda",
         "packageName": "eu.kanade.tachiyomi.extension.en.goda",
-        "extensionLib": "1.4",
-        "versionCode": 3,
-        "versionName": "1.4.3",
-        "contentWarning": "CONTENT_WARNING_NSFW",
         "resources": {
           "apkUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/apk/tachiyomi-en.goda-v1.4.3.apk",
           "iconUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/master/lib-multisrc/goda/res/mipmap-xxhdpi/ic_launcher.png"
         },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": 4273874799952447500,
+            "id": "4273874799952447500",
+            "name": "Goda",
+            "language": "en",
+            "homeUrl": "https://manhuascans.org"
+          }
+        ]
+      },
+      {
+        "name": "Goda",
+        "packageName": "eu.kanade.tachiyomi.extension.en.goda",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/apk/tachiyomi-en.goda-v1.4.3.apk",
+          "iconUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/master/lib-multisrc/goda/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/jar/tachiyomi-en.goda-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "4273874799952447458",
             "name": "Goda",
             "language": "en",
             "homeUrl": "https://manhuascans.org"
@@ -30,18 +51,18 @@
       {
         "name": "CopyManga",
         "packageName": "eu.kanade.tachiyomi.extension.zh.copymanga",
-        "extensionLib": "1.6",
-        "versionCode": 31,
-        "versionName": "1.6.31",
-        "contentWarning": "CONTENT_WARNING_MIXED",
         "resources": {
           "apkUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/apk/tachiyomi-zh.copymanga-v1.6.31.apk",
           "iconUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/master/src/zh/copymanga/res/mipmap-xxhdpi/ic_launcher.png"
         },
+        "extensionLib": "1.6",
+        "versionCode": "31",
+        "versionName": "1.6.31",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
-            "id": 6696312508930833000,
-            "name": "拷贝漫画",
+            "id": "6696312508930833000",
+            "name": "\u62f7\u8d1d\u6f2b\u753b",
             "language": "zh",
             "homeUrl": "https://www.copymanga.org"
           }
@@ -50,17 +71,38 @@
       {
         "name": "Hipmh",
         "packageName": "eu.kanade.tachiyomi.extension.zh.hipmh",
-        "extensionLib": "1.6",
-        "versionCode": 1,
-        "versionName": "1.6.1",
-        "contentWarning": "CONTENT_WARNING_MIXED",
         "resources": {
           "apkUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/apk/tachiyomi-zh.hipmh-v1.6.1.apk",
           "iconUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/master/src/zh/hipmh/res/mipmap-xxhdpi/ic_launcher.png"
         },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
-            "id": 7133465189093825000,
+            "id": "7133465189093825000",
+            "name": "Hipmh",
+            "language": "zh",
+            "homeUrl": "https://m.hipmh.com"
+          }
+        ]
+      },
+      {
+        "name": "Hipmh",
+        "packageName": "eu.kanade.tachiyomi.extension.zh.hipmh",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/apk/tachiyomi-zh.hipmh-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/master/src/zh/hipmh/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/jar/tachiyomi-zh.hipmh-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7133465189093824209",
             "name": "Hipmh",
             "language": "zh",
             "homeUrl": "https://m.hipmh.com"
@@ -70,18 +112,39 @@
       {
         "name": "Jinman Tiantang",
         "packageName": "eu.kanade.tachiyomi.extension.zh.jinmantiantang",
-        "extensionLib": "1.4",
-        "versionCode": 57,
-        "versionName": "1.4.57",
-        "contentWarning": "CONTENT_WARNING_NSFW",
         "resources": {
           "apkUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/apk/tachiyomi-zh.jinmantiantang-v1.4.57.apk",
           "iconUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/master/src/zh/jinmantiantang/res/mipmap-xxhdpi/ic_launcher.png"
         },
+        "extensionLib": "1.4",
+        "versionCode": "57",
+        "versionName": "1.4.57",
+        "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": 6286738698187452000,
-            "name": "禁漫天堂",
+            "id": "6286738698187452000",
+            "name": "\u7981\u6f2b\u5929\u5802",
+            "language": "zh",
+            "homeUrl": "https://18comic.vip"
+          }
+        ]
+      },
+      {
+        "name": "Jinman Tiantang",
+        "packageName": "eu.kanade.tachiyomi.extension.zh.jinmantiantang",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/apk/tachiyomi-zh.jinmantiantang-v1.4.57.apk",
+          "iconUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/master/src/zh/jinmantiantang/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/jar/tachiyomi-zh.jinmantiantang-v1.4.57.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "57",
+        "versionName": "1.4.57",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "6286738698187452081",
+            "name": "\u7981\u6f2b\u5929\u5802",
             "language": "zh",
             "homeUrl": "https://18comic.vip"
           }
@@ -90,17 +153,17 @@
       {
         "name": "Komiic",
         "packageName": "eu.kanade.tachiyomi.extension.zh.komiic",
-        "extensionLib": "1.6",
-        "versionCode": 10,
-        "versionName": "1.6.10",
-        "contentWarning": "CONTENT_WARNING_MIXED",
         "resources": {
           "apkUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/apk/tachiyomi-zh.komiic-v1.6.10.apk",
           "iconUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/master/src/zh/komiic/res/mipmap-xxhdpi/ic_launcher.png"
         },
+        "extensionLib": "1.6",
+        "versionCode": "10",
+        "versionName": "1.6.10",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
-            "id": 792932060924485200,
+            "id": "792932060924485200",
             "name": "Komiic",
             "language": "zh",
             "homeUrl": "https://komiic.com"
@@ -108,20 +171,66 @@
         ]
       },
       {
+        "name": "Komiic",
+        "packageName": "eu.kanade.tachiyomi.extension.zh.komiic",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/apk/tachiyomi-zh.komiic-v1.6.10.apk",
+          "iconUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/master/src/zh/komiic/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/jar/tachiyomi-zh.komiic-v1.6.10.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "10",
+        "versionName": "1.6.10",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "792932060924485302",
+            "name": "Komiic",
+            "language": "zh",
+            "homeUrl": "https://komiic.com",
+            "mirrorUrls": [
+              "https://komiic.com",
+              "https://komiic.cc"
+            ]
+          }
+        ]
+      },
+      {
         "name": "Rumanhua",
         "packageName": "eu.kanade.tachiyomi.extension.zh.rumanhua",
-        "extensionLib": "1.4",
-        "versionCode": 5,
-        "versionName": "1.4.5",
-        "contentWarning": "CONTENT_WARNING_NSFW",
         "resources": {
           "apkUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/apk/tachiyomi-zh.rumanhua-v1.4.5.apk",
           "iconUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/master/lib-multisrc/mmlook/res/mipmap-xxhdpi/ic_launcher.png"
         },
+        "extensionLib": "1.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": 392262758488714100,
-            "name": "如漫画",
+            "id": "392262758488714100",
+            "name": "\u5982\u6f2b\u753b",
+            "language": "zh",
+            "homeUrl": "https://m.rumanhua2.com"
+          }
+        ]
+      },
+      {
+        "name": "Rumanhua",
+        "packageName": "eu.kanade.tachiyomi.extension.zh.rumanhua",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/apk/tachiyomi-zh.rumanhua-v1.4.5.apk",
+          "iconUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/master/src/zh/rumanhua/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/jar/tachiyomi-zh.rumanhua-v1.4.5.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "392262758488714109",
+            "name": "\u5982\u6f2b\u753b",
             "language": "zh",
             "homeUrl": "https://m.rumanhua2.com"
           }
@@ -130,18 +239,39 @@
       {
         "name": "Tencent Comics (ac.qq.com)",
         "packageName": "eu.kanade.tachiyomi.extension.zh.tencentcomics",
-        "extensionLib": "1.4",
-        "versionCode": 10,
-        "versionName": "1.4.10",
-        "contentWarning": "CONTENT_WARNING_MIXED",
         "resources": {
           "apkUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/apk/tachiyomi-zh.tencentcomics-v1.4.10.apk",
           "iconUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/master/src/zh/tencentcomics/res/mipmap-xxhdpi/ic_launcher.png"
         },
+        "extensionLib": "1.4",
+        "versionCode": "10",
+        "versionName": "1.4.10",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
-            "id": 6353436350537370000,
-            "name": "腾讯动漫",
+            "id": "6353436350537370000",
+            "name": "\u817e\u8baf\u52a8\u6f2b",
+            "language": "zh-Hans",
+            "homeUrl": "https://m.ac.qq.com"
+          }
+        ]
+      },
+      {
+        "name": "Tencent Comics (ac.qq.com)",
+        "packageName": "eu.kanade.tachiyomi.extension.zh.tencentcomics",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/apk/tachiyomi-zh.tencentcomics-v1.4.10.apk",
+          "iconUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/master/src/zh/tencentcomics/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/jar/tachiyomi-zh.tencentcomics-v1.4.10.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "10",
+        "versionName": "1.4.10",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "6353436350537369479",
+            "name": "\u817e\u8baf\u52a8\u6f2b",
             "language": "zh-Hans",
             "homeUrl": "https://m.ac.qq.com"
           }
