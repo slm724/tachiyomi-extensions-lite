@@ -88,6 +88,26 @@
         ]
       },
       {
+        "name": "Rumanhua",
+        "packageName": "eu.kanade.tachiyomi.extension.zh.rumanhua",
+        "extensionLib": "1.4",
+        "versionCode": 5,
+        "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/apk/tachiyomi-zh.rumanhua-v1.4.5.apk",
+          "iconUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/master/lib-multisrc/mmlook/res/mipmap-xxhdpi/ic_launcher.png"
+        },
+        "sources": [
+          {
+            "id": 392262758488714100,
+            "name": "如漫画",
+            "language": "zh",
+            "homeUrl": "https://m.rumanhua2.com"
+          }
+        ]
+      },
+      {
         "name": "Tencent Comics (ac.qq.com)",
         "packageName": "eu.kanade.tachiyomi.extension.zh.tencentcomics",
         "extensionLib": "1.4",
