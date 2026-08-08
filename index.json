@@ -8,26 +8,6 @@
   "extensionList": {
     "extensions": [
       {
-        "name": "Goda",
-        "packageName": "eu.kanade.tachiyomi.extension.en.goda",
-        "extensionLib": "1.4",
-        "versionCode": 3,
-        "versionName": "1.4.3",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/repo/apk/tachiyomi-en.goda-v1.4.3.apk",
-          "iconUrl": "https://raw.githubusercontent.com/slm724/tachiyomi-extensions-lite/master/lib-multisrc/goda/res/mipmap-xxhdpi/ic_launcher.png"
-        },
-        "sources": [
-          {
-            "id": 4273874799952447500,
-            "name": "Goda",
-            "language": "en",
-            "homeUrl": "https://manhuascans.org"
-          }
-        ]
-      },
-      {
         "name": "GoDa",
         "packageName": "eu.kanade.tachiyomi.extension.zh.baozimhorg",
         "extensionLib": "1.4",
